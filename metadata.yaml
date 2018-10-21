@@ -1,5 +1,5 @@
 _repo: Tea-Table-Talk_2353
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 2353-h/images/coverb.jpg
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'England -- Social life and customs -- Fiction'
 - !lcsh 'Conversation -- Fiction'
 - !lcc 'PR'
+- GITenberg
 title: Tea-Table Talk
 url: http://www.gutenberg.org/ebooks/2353
